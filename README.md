@@ -71,7 +71,3 @@ These templates are intended for educational and professional use cases. Always 
 ## 🖥️ Resources
 - [Nuclei Official Documentation](https://nuclei.projectdiscovery.io/)
 - [Guide to Nuclei Templating](./TemplateGuide.md)
-
-```
-
-Please replace `LINK_TO_LICENSE` and `LINK_TO_YOUR_GUIDE` with the appropriate links.
