@@ -29,4 +29,4 @@ nuclei -t <template-name.yaml> -u <target-url>
 ## 🖥️ Resources
 
 - [Nuclei Official Documentation](https://nuclei.projectdiscovery.io/)
-- [Guide to Nuclei Templating](<LINK_TO_YOUR_GUIDE>)
+- [Guide to Nuclei Templating]([<LINK_TO_YOUR_GUIDE](https://github.com/cavalcantecodes/nuclei-templates/blob/main/TemplateGuide.md)https://github.com/cavalcantecodes/nuclei-templates/blob/main/TemplateGuide.md)
