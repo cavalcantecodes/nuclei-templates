@@ -8,6 +8,7 @@
 
 ## Description
 ![Static Badge](https://img.shields.io/badge/About%20This%20Repo.-33cc33)
+
 This repository hosts a collection of custom Nuclei templates crafted meticulously for both web and network scanning. Whether you're assessing web application vulnerabilities or probing network services, these templates are designed to provide accurate and comprehensive results.
 
 ## 🌐 Web Templates
@@ -65,6 +66,7 @@ For efficient and smooth execution:
 ## 🔍 Disclaimer
 
 ![Static Badge](https://img.shields.io/badge/Important-Notice-red)
+
 These templates are intended for educational and professional use cases. Always ensure that you have proper authorization before scanning a target. Unauthorized scanning can lead to legal and ethical issues.
 
 
